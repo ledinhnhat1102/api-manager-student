@@ -1,0 +1,169 @@
+{
+    "students": [
+    {
+      "id": "1",
+      "code": "SV-001",
+      "gender": "Nữ",
+      "firstName": "Ngọc",
+      "lastName": "Trần",
+      "dob": "2001-05-15T00:00:00.000Z",
+      "email": "ngoc.tran@example.com",
+      "phone": "0932-456-789",
+      "picture": "https://randomuser.me/api/portraits/women/10.jpg"
+    },
+    {
+      "id": "2",
+      "code": "SV-002",
+      "gender": "Nam",
+      "firstName": "Minh",
+      "lastName": "Nguyễn",
+      "dob": "1999-12-08T00:00:00.000Z",
+      "email": "minh.nguyen@example.com",
+      "phone": "0973-123-456",
+      "picture": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    {
+      "id": "3",
+      "code": "SV-003",
+      "gender": "Nữ",
+      "firstName": "Hương",
+      "lastName": "Phạm",
+      "dob": "2000-03-20T00:00:00.000Z",
+      "email": "huong.pham@example.com",
+      "phone": "0987-654-321",
+      "picture": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+      "id": "4",
+      "code": "SV-004",
+      "gender": "Nam",
+      "firstName": "Hùng",
+      "lastName": "Lê",
+      "dob": "2002-09-10T00:00:00.000Z",
+      "email": "hung.le@example.com",
+      "phone": "0912-345-678",
+      "picture": "https://randomuser.me/api/portraits/men/14.jpg"
+    },
+    {
+      "id": "5",
+      "code": "SV-005",
+      "gender": "Nữ",
+      "firstName": "Trang",
+      "lastName": "Đặng",
+      "dob": "1998-07-01T00:00:00.000Z",
+      "email": "trang.dang@example.com",
+      "phone": "0908-987-654",
+      "picture": "https://randomuser.me/api/portraits/women/22.jpg"
+    },
+    {
+      "id": "6",
+      "code": "SV-006",
+      "gender": "Nam",
+      "firstName": "Phúc",
+      "lastName": "Bùi",
+      "dob": "2000-04-10T00:00:00.000Z",
+      "email": "phuc.bui@example.com",
+      "phone": "0905-678-123",
+      "picture": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+      "id": "7",
+      "code": "SV-007",
+      "gender": "Nữ",
+      "firstName": "Thảo",
+      "lastName": "Ngô",
+      "dob": "2001-11-15T00:00:00.000Z",
+      "email": "thao.ngo@example.com",
+      "phone": "0936-123-789",
+      "picture": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+      "id": "8",
+      "code": "SV-008",
+      "gender": "Nam",
+      "firstName": "Dũng",
+      "lastName": "Hoàng",
+      "dob": "1997-03-22T00:00:00.000Z",
+      "email": "dung.hoang@example.com",
+      "phone": "0982-876-543",
+      "picture": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": "9",
+      "code": "SV-009",
+      "gender": "Nữ",
+      "firstName": "Mai",
+      "lastName": "Võ",
+      "dob": "2002-06-30T00:00:00.000Z",
+      "email": "mai.vo@example.com",
+      "phone": "0915-234-678",
+      "picture": "https://randomuser.me/api/portraits/women/25.jpg"
+    },
+    {
+      "id": "10",
+      "code": "SV-010",
+      "gender": "Nam",
+      "firstName": "Quân",
+      "lastName": "Phan",
+      "dob": "1998-09-12T00:00:00.000Z",
+      "email": "quan.phan@example.com",
+      "phone": "0942-789-123",
+      "picture": "https://randomuser.me/api/portraits/men/21.jpg"
+    },
+    {
+      "id": "11",
+      "code": "SV-011",
+      "gender": "Nam",
+      "firstName": "Anh",
+      "lastName": "Trịnh",
+      "dob": "2000-10-05T00:00:00.000Z",
+      "email": "anh.trinh@example.com",
+      "phone": "0933-456-789",
+      "picture": "https://randomuser.me/api/portraits/men/22.jpg"
+    },
+    {
+      "id": "12",
+      "code": "SV-012",
+      "gender": "Nam",
+      "firstName": "Quốc",
+      "lastName": "Nguyễn",
+      "dob": "1999-01-15T00:00:00.000Z",
+      "email": "quoc.nguyen@example.com",
+      "phone": "0978-654-321",
+      "picture": "https://randomuser.me/api/portraits/men/23.jpg"
+    }
+  ]
+  ,
+    "users": [
+      {
+        "id": "1",
+        "name": "Quản trị viên",
+        "username": "admin",
+        "password": "admin123"
+      },
+      {
+        "id": "2",
+        "name": "Hà Anh",
+        "username": "haanh",
+        "password": "haanh2024"
+      },
+      {
+        "id": "3",
+        "name": "Lê Minh",
+        "username": "leminh",
+        "password": "leminh2024"
+      },
+      {
+        "id": "4",
+        "name": "Ngọc Bích",
+        "username": "ngocbich",
+        "password": "ngocbich2024"
+      },
+      {
+        "id": "5",
+        "name": "Quốc Hùng",
+        "username": "quochung",
+        "password": "quochung2024"
+      }
+    ]
+  }
